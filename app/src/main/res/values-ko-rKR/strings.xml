@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">닉네임 생성기</string>
+    <string name="tv_result">닉네임</string>
+    <string name="btn_save">저장</string>
+</resources>

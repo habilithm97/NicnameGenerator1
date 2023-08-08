@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">NicnameGenerator1</string>
+    <string name="app_name">NicnameGenerator</string>
+    <string name="tv_result">Nicname</string>
+    <string name="btn_save">Save</string>
 </resources>
